@@ -1,0 +1,5 @@
+# Los tres agentes (robotito.py, astar_agente.py, qlearning.py) usan solo la biblioteca estándar.
+# Solo el análisis y las gráficas necesitan estas librerías:
+pandas>=2.0
+matplotlib>=3.7
+numpy>=1.24

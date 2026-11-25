@@ -1,0 +1,1 @@
+Diseño inicial (start en (0,0), goal al azar a distancia d): el robotito puede llegar a la meta en 13 de 60 laberintos.
