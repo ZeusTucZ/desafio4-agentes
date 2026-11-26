@@ -1,0 +1,16 @@
+{
+  "gridSize": {
+    "x": 15,
+    "y": 15
+  },
+  "obstaculos": [],
+  "recolectables": [],
+  "start": {
+    "x": 8,
+    "y": 6
+  },
+  "goal": {
+    "x": 14,
+    "y": 14
+  }
+}

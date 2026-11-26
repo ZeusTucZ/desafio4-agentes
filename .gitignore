@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+reporte/
+.DS_Store
+generados_tmp.zip
